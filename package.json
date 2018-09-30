@@ -1,0 +1,16 @@
+{
+  "name": "node-easy-notes-app",
+  "version": "1.0.0",
+  "description": "never miss a thing in life. take notes quickly.organoze and keep track of all your notes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ajit Shinde",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "mongoose": "^5.2.17"
+  }
+}
